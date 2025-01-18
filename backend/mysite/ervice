@@ -1,0 +1,11 @@
+[0;1;31m●[0m gunicorn.service - gunicorn daemon for Django project
+     Loaded: loaded (/etc/systemd/system/gunicorn.service; enabled; vendor preset: enabled)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Fri 2024-12-20 05:32:49 MST; 3s ago
+    Process: 38626 ExecStart=/home/zero/Desktop/django-scrapy/venv/bin/gunicorn --workers 3 --bind unix:/home/zero/Desktop/django-scrapy/mysite/gunicorn.sock mysite.wsgi:application [0;1;31m(code=exited, status=217/USER)[0m
+   Main PID: 38626 (code=exited, status=217/USER)
+
+Dec 20 05:32:49 zero-Inspiron-3543 systemd[1]: Started gunicorn daemon for Django project.
+Dec 20 05:32:49 zero-Inspiron-3543 systemd[38626]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed to determine user credentials: No such process[0m
+Dec 20 05:32:49 zero-Inspiron-3543 systemd[38626]: [0;1;31m[0;1;39m[0;1;31mgunicorn.service: Failed at step USER spawning /home/zero/Desktop/django-scrapy/venv/bin/gunicorn: No such process[0m
+Dec 20 05:32:49 zero-Inspiron-3543 systemd[1]: [0;1;39m[0;1;31m[0;1;39mgunicorn.service: Main process exited, code=exited, status=217/USER[0m
+Dec 20 05:32:49 zero-Inspiron-3543 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mgunicorn.service: Failed with result 'exit-code'.[0m

@@ -1,0 +1,35 @@
+[33mcommit bd2598e911b8c87829035c094817db45e2e6c6ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: juliandivagaran <jndivagaran@gmail.com>
+Date:   Sat Jan 4 23:36:21 2025 -0700
+
+    upload the last working project resolved the reactor runner
+
+[33mcommit 15ca81a6edb364cf1e3a472f276bb9bba4548183[m
+Author: julian divagaran <jndivagaran@gmail.com>
+Date:   Mon Dec 23 06:00:13 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+[33mcommit 7d014abd6cd4dd79df69ab7c502a68ae6d82c399[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: juliandivagaran <jndivagaran@gmail.com>
+Date:   Fri Dec 20 01:31:18 2024 -0800
+
+    Your commit message here
+
+[33mcommit f5f804adab8269414b0c5798f5a9db9f38aba463[m[33m ([m[1;32mmaster[m[33m)[m
+Author: juliandivagaran <jndivagaran@gmail.com>
+Date:   Fri Dec 13 11:44:09 2024 -0800
+
+    added new craweler
+
+[33mcommit 14c6580cd0e6c9f1cdbebef03d08da8133733d9f[m
+Author: juliandivagaran <jndivagaran@gmail.com>
+Date:   Thu Dec 12 01:58:53 2024 -0700
+
+    Updated the code with Webcrawler
+
+[33mcommit a137495b9dc6c0edd60cd15cc8b144ceae98abcc[m
+Author: juliandivagaran <jndivagaran@gmail.com>
+Date:   Wed Dec 11 01:31:49 2024 -0700
+
+    Initial commit

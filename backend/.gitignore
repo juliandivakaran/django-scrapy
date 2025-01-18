@@ -1,0 +1,21 @@
+# Python/Django
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+
+# Virtual environments
+myenv/
+
+# Environment variables
+.venv
+
+# Static and media files
+/staticfiles/
+/media/
+
+# Scrapy-related
+.scrapy/
+
+
+.idea
